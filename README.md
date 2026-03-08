@@ -46,6 +46,9 @@ Open Arduino IDE and upload the Arduino script (e.g., servo_control.ino).
 Select the correct board and port in Tools > Board and Tools > Port.
 Upload the code to the Arduino Uno.
 
+<img width="1365" height="767" alt="servo" src="https://github.com/user-attachments/assets/c4584e6d-51a4-4fdb-b40f-e2edc5e1df34" />
+
+
 🎯 Usage
 
 🔊 Volume Up: Pinch thumb and index finger apart.
