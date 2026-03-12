@@ -4,7 +4,7 @@ This project uses a Python script with OpenCV and MediaPipe to track hand gestur
 
 🖐️ Hand gesture detection using Python (OpenCV + MediaPipe)
 🔊 Volume control by pinching thumb and index finger
-🔧 Arduino Uno controls a servo motor based on hand gesture detection
+🔧 Arduino Uno controls a servo motor based on hand gesture detection.
 
 🔧 Requirements
 🐍 Python Environment
